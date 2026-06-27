@@ -1,0 +1,12 @@
+{
+    "display_name": "LLM Rotator",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "Sabrina",
+    "version": "1.0.0",
+    "homePage": "",
+    "auto_update": false
+}
